@@ -7,6 +7,8 @@ HTML and CSS Only: The project utilizes only HTML and CSS for the frontend, show
 Webpage: The current version includes a single webpage resembling the layout and design of Amazon's homepage.
 Customizable Links: The webpage is designed to support multiple links, allowing for easy navigation to different sections or products.
 Flexible Styling: Various CSS styles have been applied to mimic the look and feel of Amazon's website, with room for further customization and enhancement.
+![image](https://github.com/amisoumyadeepdas/Amazon_Clone/assets/109064628/812619ed-bbce-44a3-bfbf-8e76b5f52426)
+
 # Usage
 To view the webpage, simply open the index.html file in any web browser. From there, you can navigate through the different sections and explore the layout.
 

@@ -1,4 +1,4 @@
-# Amazone Clone Project
+# #Amazone Clone Project
 Overview
 This project is a clone of the popular e-commerce platform Amazon, created solely using HTML and CSS. It currently consists of a single webpage, but additional pages and features can be easily added using the existing structure.
 
